@@ -19,3 +19,4 @@ I will regularly update this repository with new problems and optimized solution
 
 
 so it is not only about dsa it will also improve your coding knowledge.
+Improved solution and formatting
